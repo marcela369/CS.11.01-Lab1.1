@@ -7,7 +7,7 @@ public class Pages {
             int age = scan.nextInt();
 
             int newPage =( 100 - age );
-            System.out.println(age +" year olds should at least read " + newPage + " pages before giving up on a book.");
+            System.out.println(age +" year olds should read at least " + newPage + " pages before giving up on a book.");
         }
 
     }
