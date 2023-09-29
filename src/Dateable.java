@@ -9,4 +9,6 @@ public class Dateable {
         int newAge =  ( 7 + ( age / 2 ) );
         System.out.println(age+"-year olds should date somebody who is at least " + newAge +" years old");
     }
+
 }
+
